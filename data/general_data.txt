@@ -1,0 +1,34 @@
+Recruiting 2009 - 2018
+total_recruits: 256
+composite_average: .88
+
+Blue Chip Stats:
+total_blue_chip_recruits: 95
+composite_average: .93
+percentage_of_recruiting_total: .3711
+
+total_transfer_quit_dismissed_dnq: 33
+quit_dismissed_dnq_transferred_percentage_of_blue_chip_total: .3474
+
+Left Program Breakdowns by Category:
+total_transfer: 20
+transfer_percentage_of_blue_chip_total: .2105
+total_dismissed: 6
+dismissed_percentage_of_blue_chip_total: .0632
+total_quit: 5
+quit_percentage_of_blue_chip_total: .0526
+total_dnq: 2
+dnq_percentage_of_blue_chip_total: .0211
+
+ADJUSTED_total_blue_chip_recruits: 62
+ADJUSTED_composite_average: .94 (weirdly enough this actually went up?)
+ADJUSTED_percentage_of_recruiting_total: .2422
+
+
+The Good News: 
+total_blue_chip_to_nfl (Either draft or UDFA): 22
+total_blue_chip_to_percentage: .2316
+
+total_blue_chip_to_nfl_via_draft: 9
+total_blue_chip_to_nfl_via_draft_percentage: .0947
+
