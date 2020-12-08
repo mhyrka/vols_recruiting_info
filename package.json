@@ -9,7 +9,7 @@
   "author": "Matthew Hyrka",
   "license": "MIT",
   "dependencies": {
-    "fast-csv": "^3.1.0",
+    "fast-csv": "^4.3.6",
     "puppeteer": "^1.18.1"
   }
 }
